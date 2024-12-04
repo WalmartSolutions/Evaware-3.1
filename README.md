@@ -11,10 +11,10 @@
 
 # How To Use
 
-1. Download Evware.zip.
+1. Download [Evaware.zip](https://github.com/WalmartSolutions/Evaware-3.1/blob/main/Evaware.zip).
 2. Extract it into .minecraft/versions.
 3. Start game
-4. Once in game, click on the "Field" and press ENTER.
+4. In game, click on the "Field" and press ENTER.
 5. Enjoy
 
 # Credits
