@@ -22,6 +22,6 @@
 - [3000IQPlay][1] - Cracking.
 - catacsss - Jar.
 
-# GUI (Bind: .bind add ClickGUI <key>)
+# GUI (Bind: .bind add ClickGUI [key])
 
 ![image](https://github.com/WalmartSolutions/Evaware-3.1/blob/main/Assets/GUI.png?raw=true)
