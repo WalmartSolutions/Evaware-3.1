@@ -5,7 +5,7 @@
 # Why?
 **EN:** Paid Vegaline skid.
 
-**RU (Translated):** Платный занос Vegaline.
+**RU (Translated):** Платная паста VegaLine
 
 [1]: https://github.com/3000IQPlay
 
